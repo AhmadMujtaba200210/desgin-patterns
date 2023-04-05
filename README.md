@@ -1,2 +1,2 @@
-# desgin-patterns
+# design-patterns
 Desgin Patterns in Java
