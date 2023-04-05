@@ -5,6 +5,7 @@ Design Patterns in Java
 Design patterns are typical solution to reoccuring problems. They are like blue prints that you can customize to solve a recurring design problem.
 ## Creational Design Patterns
   - Abstract Factory
+    - **Abstract Factory** is a creational design pattern, which solves the problem of creating entire product families without specifying their concrete classes.
   - Factory Design
   - Builder
   - Singleton
