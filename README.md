@@ -1,7 +1,8 @@
 # Design-patterns
 Design Patterns in Java
 > "You can, you should, and if you're brave enough to start, you will." -Stephen King
-
+## What are design patterns?
+Design patterns are typical solution to reoccuring problems. They are like blue prints that you can customize to solve a recurring design problem.
 ## Creational Design Patterns
   - Abstract Factory
   - Factory Design
