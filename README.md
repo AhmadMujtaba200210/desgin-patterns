@@ -7,6 +7,7 @@ Design patterns are typical solution to reoccuring problems. They are like blue 
   - Abstract Factory
     - **Abstract Factory** is a creational design pattern, which solves the problem of creating entire product families without specifying their concrete classes.
   - Factory Design
+    - **Factory Method** is a creational design pattern that provides an interface for creating objects in a superclass, but allows subclasses to alter the type of objects that will be created.
   - Builder
   - Singleton
   - Prototype
