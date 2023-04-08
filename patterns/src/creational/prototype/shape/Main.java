@@ -1,7 +1,7 @@
 package creational.prototype.shape;
 
 public class Main {
-    public static void main(String[] args) throws CloneNotSupportedException {
+    public static void main(String[] args) {
 
         // Circle
         Circle circle = new Circle();
